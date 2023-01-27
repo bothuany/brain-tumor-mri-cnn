@@ -9,6 +9,6 @@ https://github.com/bothuany/brain-tumor-mri-cnn/blob/main/brain-tumor-cnn/presen
 
 <h2>Team Members</h2>
 <ul>
-  <li>Recep Batuhan Dikmen (me)</li>
+  <li>Recep Batuhan Dikmen https://github.com/bothuany</li>
   <li>İrem Akanoğlu https://github.com/iremakanogluu</li>
  </ul>
